@@ -1,0 +1,7 @@
+datefinder == 0.7.1
+google_api_python_client == 2.3.0
+google_auth_oauthlib == 0.4.4
+protobuf == 3.15.8
+schedule == 0.6.0
+selenium == 3.141.0
+google~=3.0.0

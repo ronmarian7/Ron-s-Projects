@@ -145,7 +145,7 @@ def login_in():
 
 
 
-
+# Biuld the chrome driver
 options = webdriver.ChromeOptions()
 options.page_load_strategy = 'normal'
 # if you want the chrome browser to work in the background un comments the line below

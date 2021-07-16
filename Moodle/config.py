@@ -1,0 +1,9 @@
+EMAIL_ADDRESS = "Enter your email address"
+EMAIL_PASSWORD = "Enter your email address password"
+INPUT_FILE1 = "PATH FILE 1"  # the tasks file from prev run
+INPUT_FILE2 = "PATH FILE 2"  # the tasks file from curr run
+OUTPUT_PATH = "PATH OUT FILE"  # the file to write the diff between the files
+DRIVER_PATH = "PATH OF DRIVER"  # enter the chrome driver path
+MOODLE_USER_NAME = ""
+MOODLE_ID_NUMBER = ""
+MOODLE_PASSWORD = ""
